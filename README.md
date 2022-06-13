@@ -6,7 +6,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
-## Hi my name is David 👋
+<div id="badges">
+  <a href="https://www.linkedin.com/in/david-navoa-acevedo-7845b3213/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+## Welcome! Feel free to snoop around 👋
 
 <h4 align="center">Visitors</h4>
 
